@@ -1,0 +1,6 @@
+# Ignore model files
+model-ar/
+vosk-model-ar-mgb2-0.4.zip
+*.zip
+*.tar.gz
+__pycache__/
